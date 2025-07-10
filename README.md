@@ -30,7 +30,7 @@ It filters posts based on parameters you define (like keywords or locations) and
 2. Edit .env file
 3. python main.py
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This tool uses automation on LinkedIn. Use responsibly, and do not abuse platform limitations.
 It's built for learning and outreach streamlining — not for spam or commercial scraping.
